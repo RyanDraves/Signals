@@ -38,7 +38,7 @@ export(
 
 # ADD TESTS
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-add_subdirectory(test)
+# add_subdirectory(test)
 
 # DOXYGEN
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
